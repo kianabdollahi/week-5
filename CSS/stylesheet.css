@@ -13,6 +13,20 @@
     background-color: pink;
 } */
 
-html {
+/* html {
     scroll-behavior: smooth;
+} */
+
+span {
+
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+}
+
+#para_box {
+
+    border: 10px ridge lightgreen;
+    margin: 5px;
 }
